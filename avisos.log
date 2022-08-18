@@ -1,0 +1,40 @@
+[2022-08-1721:44:01] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1721:46:20] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1721:46:20] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:47:06] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1721:47:06] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:47:06] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:47:50] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1721:47:50] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:47:50] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:47:50] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1721:48:47] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1721:48:47] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:48:47] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1721:48:47] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1721:48:47] [ DEBUG] [HotelDaoImpl:23] Salvando nova filial: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
+[2022-08-1722:07:17] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1722:07:17] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:07:17] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:07:17] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1722:07:17] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
+[2022-08-1722:08:29] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: null: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1722:08:29] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: null: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:08:29] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: null: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:08:29] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: null: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1722:08:29] [ DEBUG] [HotelDaoImpl:25] Salvando nova filial: null: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
+[2022-08-1722:09:25] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 26: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1722:09:25] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 27: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:09:25] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 28: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:09:25] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 29: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1722:09:25] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 30: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
+[2022-08-1722:11:26] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 31: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1722:11:26] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 32: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:11:26] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 33: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:11:26] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 34: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1722:11:26] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 35: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
+[2022-08-1722:14:31] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 36: Hotel Sheraton localizado no endereco: Rua Barata Ribeiro, 418, Rio de Janeiro - RJ e sem classificacao 5 estrelas
+[2022-08-1722:14:31] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 37: Hotel Hilton localizado no endereco: Rua Nsa de Copacabana, 680, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:14:31] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 38: Hotel Marriot localizado no endereco: Rua Atlantica, 1000, Rio de Janeiro - RJ e com classificacao 5 estrelas
+[2022-08-1722:14:31] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 39: Hotel Heritage localizado no endereco: Rua Paulista, 100, Sao Paulo - SP e sem classificacao 5 estrelas
+[2022-08-1722:14:31] [ DEBUG] [HotelDaoImpl:43] Salvando nova filial: 40: Hotel Pousada Iracema localizado no endereco: Rua Iracema Falls, 1, Presidente Figueiredo - AM e sem classificacao 5 estrelas
